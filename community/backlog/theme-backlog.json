@@ -377,7 +377,9 @@
     "mainColor": "oklch(58.0% 0.225 28.0 / 1)",
     "secondaryColor": "oklch(92.0% 0.045 90.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "regenn",
+    "completedPR": 20467
   },
   {
     "id": "shogun-gold",
