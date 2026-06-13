@@ -390,12 +390,19 @@
     "english": "Shishishi! (alt wording 30)",
     "anime": "One Piece",
     "character": "Monkey D. Luffy"
-  }
+  },
   {
   "japanese": "シシシシシ",
   "romaji": "Shishishishi",
   "english": "Shishishi! (alt wording 30)",
   "anime": "One Piece",
   "character": "Monkey D. Luffy"
+},
+{
+  "japanese": "何ッ！？",
+  "romaji": "Nani!?",
+  "english": "What?! (alt wording 19) (alt wording 71)",
+  "anime": "Fist of the North Star",
+  "character": "Shin"
 }
 ]
